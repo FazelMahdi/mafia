@@ -6,7 +6,7 @@ Build Technologies:
 
 ✅ NEXTJS
 ✅ APOLLO GRAPHQL
-✅ CHAKRA UI
+✅ Tailwind
 ✅ NODEJS
 ✅ MONGO DB
 ✅ PRISMA
