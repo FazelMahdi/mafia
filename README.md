@@ -1,6 +1,7 @@
 # Mafia Game
 
-an open source game, so you can contribuite too :)
+play mafia card game online.
+an open source game, so you can contribuite too :);
 
 Build Technologies:
 
