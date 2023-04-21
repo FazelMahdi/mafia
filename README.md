@@ -1,4 +1,4 @@
-# Mafia Game
+# Mafia pro Game
 
 play mafia card game online.
 an open source game, so you can contribuite too :);
