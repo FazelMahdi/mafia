@@ -25,3 +25,6 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+/* DATABASE_URL=mongodb+srv://fazelmatt:s4NRjxUKM4KnhFto@cluster0.ef1tzdo.mongodb.net/mafia?retryWrites=true&w=majority */
