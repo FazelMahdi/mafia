@@ -27,9 +27,6 @@
       "@/*": [
         "./src/*"
       ],
-      "@/prisma*": [
-        "./prisma/*"
-      ]
     },
     "strictNullChecks": true
   },

@@ -8,3 +8,6 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
+
+##  npx prisma generate
